@@ -211,9 +211,7 @@ To develop an intelligent water monitoring platform that uses machine learning a
 
 ## Author
 
-**Dipali Patil**
-
-GitHub: [@Git-Dipali](https://github.com/Git-Dipali)
+**sonali yadav**
 
 **Project:** AquaSense AI – Smart Water Intelligence Platform
 
